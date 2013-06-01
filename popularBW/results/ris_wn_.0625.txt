@@ -1,0 +1,1374 @@
+# of hits: 96/98 (97% approx.)
+# of perfect hits: 92/98 (93% approx.)
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\2pac - Brenda's Got A Baby.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.064891 2pac - Brenda's Got A Baby.mp3_30s.mp3.dat
+0.150273 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.155738 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.156421 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.157787 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.158470 Snoop Dogg - Vapors.mp3_30s.mp3.dat
+0.159153 DJ Fresh - Temple Of Doom.mp3_30s.mp3.dat
+0.163934 Pap3ro - Notte Prima Degli Esami.mp3_30s.mp3.dat
+0.165301 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\2pac - Dopefiends Diner.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.160519 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.164617 Royksopp - Sparks.mp3_30s.mp3.dat
+0.168033 Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3.dat
+0.172814 The Shortwave Set - Is It Any Wonder.mp3_30s.mp3.dat
+0.174863 Canzoni cartoni - Barbari.mp3_30s.mp3.dat
+0.178279 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+0.178279 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.178279 Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3.dat
+0.178279 Anthologia Electronica - Electro Hop, World Class Wreckin Cru - Turn Off The Lights.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\2pac - High Till I Die.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.064891 2pac - High Till I Die.mp3_30s.mp3.dat
+0.141393 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.167350 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+0.167350 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.172131 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.172131 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.172131 Disco Fede, Jesse McCartney - Because You Live.mp3_30s.mp3.dat
+0.172814 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.173497 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\2pac - Never Call You Bitch Again.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.050403 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.122312 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.142473 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.143145 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.149194 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.149866 Elio E Le Storie Tese - El Pube.mp3_30s.mp3.dat
+0.150538 Chase & Status - Eastern Jam.mp3_30s.mp3.dat
+0.154570 Rusko - Mr. Chips.mp3_30s.mp3.dat
+0.155242 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.181011 Royksopp - Forsaken Cowboy.mp3_30s.mp3.dat
+0.181011 Anthologia Electronica - Trip Hop, Massive Attack - Unfinished Sympathy.mp3_30s.mp3.dat
+0.183743 Skream - What Did He Say.mp3_30s.mp3.dat
+0.185109 Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3.dat
+0.187158 Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3.dat
+0.188525 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.189208 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.190574 2pac - Brenda's Got A Baby.mp3_30s.mp3.dat
+0.190574 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.054645 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.149590 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.151639 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.156421 2pac - Dopefiends Diner.mp3_30s.mp3.dat
+0.156421 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+0.157104 Bob Marley - Natty Dread.mp3_30s.mp3.dat
+0.160519 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.161202 Big Daddy Kane - It's Hard Being The Kane.mp3_30s.mp3.dat
+0.161885 Korn - Sing Sorrow.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\2pac feat JoJo & K-Ci - How Do U Want It.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.071721 2pac feat JoJo & K-Ci - How Do U Want It.mp3_30s.mp3.dat
+0.173497 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.174863 Bob Marley - Natty Dread.mp3_30s.mp3.dat
+0.176230 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.176913 Anthologia Electronica - Electro Hop, World Class Wreckin Cru - Turn Off The Lights.mp3_30s.mp3.dat
+0.177596 2pac - Dopefiends Diner.mp3_30s.mp3.dat
+0.178279 R.E.M. - Mine Smell Like Honey.mp3_30s.mp3.dat
+0.178279 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.178962 Korn - Sing Sorrow.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\2pac feat Nate Dogg - Thugs Get Lonely Too.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.070355 2pac feat Nate Dogg - Thugs Get Lonely Too.mp3_30s.mp3.dat
+0.145492 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.162568 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.165984 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.168716 2pac - Brenda's Got A Baby.mp3_30s.mp3.dat
+0.171448 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.172814 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.175546 Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3.dat
+0.176230 2pac feat JoJo & K-Ci - How Do U Want It.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Anthologia Electronica - Acid House, Phuture - Acid Tracks.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.052703 Anthologia Electronica - Acid House, Phuture - Acid Tracks.mp3_30s.mp3.dat
+0.170270 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.171622 Motorbass - Pariscyde.mp3_30s.mp3.dat
+0.171622 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.174324 Velodrome - Capataz.mp3_30s.mp3.dat
+0.175000 Gipsy Kings - Oh Eh Oh Eh.mp3_30s.mp3.dat
+0.175676 Underground Resistance - Hunting The Program Director.mp3_30s.mp3.dat
+0.181757 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.182432 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Anthologia Electronica - Dub, Scientist - Dance Of The Vampires.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.151351 Anthologia Electronica - Dub, Scientist - Dance Of The Vampires.mp3_30s.mp3.dat
+0.176351 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.180405 Benny Page vs MCD, Myesha, The Ragga Twins - Alright.mp3_30s.mp3.dat
+0.181757 R.E.M. - Losing My Religion.mp3_30s.mp3.dat
+0.182432 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.183108 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.183108 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+0.183108 Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3.dat
+0.183108 Frank Sinatra - (theme from) New York New York.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Anthologia Electronica - Electro Hop, World Class Wreckin Cru - Turn Off The Lights.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.155405 Anthologia Electronica - Electro Hop, World Class Wreckin Cru - Turn Off The Lights.mp3_30s.mp3.dat
+0.171622 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.175000 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.176351 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.179730 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.181081 Rusko - Mr. Chips.mp3_30s.mp3.dat
+0.182432 2pac feat JoJo & K-Ci - How Do U Want It.mp3_30s.mp3.dat
+0.184459 Velodrome - Capataz.mp3_30s.mp3.dat
+0.184459 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Anthologia Electronica - Florida Breaks, Jackal & Hyde - Darkstar.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.054348 Anthologia Electronica - Florida Breaks, Jackal & Hyde - Darkstar.mp3_30s.mp3.dat
+0.161685 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.180027 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.181386 Sigle Cartoni - UFO Robot.mp3_30s.mp3.dat
+0.183424 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.184103 Bob Marley - Natty Dread.mp3_30s.mp3.dat
+0.184103 Paco De Lucia - Entre Dos Aguas.mp3_30s.mp3.dat
+0.184103 Skream - 2D.mp3_30s.mp3.dat
+0.184103 Rusko - Mr. Chips.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Anthologia Electronica - Hard Trance, DJ Roxx - Jumping & Pumping.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.029730 Anthologia Electronica - Hard Trance, DJ Roxx - Jumping & Pumping.mp3_30s.mp3.dat
+0.116892 Anthologia Electronica - Schranz, Chris Liebing feat Andrew Wooden - Stigmata 10.mp3_30s.mp3.dat
+0.156081 Skream - Hats Off.mp3_30s.mp3.dat
+0.162838 Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3.dat
+0.162838 Rusko - Mr. Chips.mp3_30s.mp3.dat
+0.165541 Peter Tosh - Reggaemylitis.mp3_30s.mp3.dat
+0.165541 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.165541 Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3.dat
+0.166216 Maddslinky feat Skream - 50 Shades Of Peng.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Anthologia Electronica - Hip House, Deadmau5 feat MC Flipside - Hi Friend.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.141216 Anthologia Electronica - Hip House, Deadmau5 feat MC Flipside - Hi Friend.mp3_30s.mp3.dat
+0.198649 Queens Of The Stone Age - No One Knows.mp3_30s.mp3.dat
+0.202703 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+0.207432 System Of A Down feat Wu Tang Clan - Shame On A Nigga.mp3_30s.mp3.dat
+0.208108 Pap3ro - Notte Prima Degli Esami.mp3_30s.mp3.dat
+0.209459 Big Daddy Kane - It's Hard Being The Kane.mp3_30s.mp3.dat
+0.209459 Snoop Dogg feat Bootsy Collins - Undacova Funk.mp3_30s.mp3.dat
+0.209459 Bob Marley - Natty Dread.mp3_30s.mp3.dat
+0.210135 Pendulum - Blood Sugar.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Anthologia Electronica - Schranz, Chris Liebing feat Andrew Wooden - Stigmata 10.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.027703 Anthologia Electronica - Schranz, Chris Liebing feat Andrew Wooden - Stigmata 10.mp3_30s.mp3.dat
+0.106081 Anthologia Electronica - Hard Trance, DJ Roxx - Jumping & Pumping.mp3_30s.mp3.dat
+0.158108 Rusko - Mr. Chips.mp3_30s.mp3.dat
+0.168919 Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3.dat
+0.170270 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.170946 Peter Tosh - Reggaemylitis.mp3_30s.mp3.dat
+0.172973 Skream - Hats Off.mp3_30s.mp3.dat
+0.175676 Maddslinky feat Skream - 50 Shades Of Peng.mp3_30s.mp3.dat
+0.175676 2pac feat Nate Dogg - Thugs Get Lonely Too.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Anthologia Electronica - Tech House, Miss Kittin - All You Need.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.131048 Anthologia Electronica - Tech House, Miss Kittin - All You Need.mp3_30s.mp3.dat
+0.133065 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.133737 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.136425 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.140457 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.143817 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.144489 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.147177 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.150538 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Anthologia Electronica - TechnoDNB, Current Value feat Cooh - Naglfar.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.039189 Anthologia Electronica - TechnoDNB, Current Value feat Cooh - Naglfar.mp3_30s.mp3.dat
+0.147973 Benny Page - Pinball.mp3_30s.mp3.dat
+0.150000 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.151351 DJ Fresh - Temple Of Doom.mp3_30s.mp3.dat
+0.158784 Queens Of The Stone Age - No One Knows.mp3_30s.mp3.dat
+0.164189 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.164865 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.166892 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.169595 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Anthologia Electronica - Trip Hop, Massive Attack - Unfinished Sympathy.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.057124 Anthologia Electronica - Trip Hop, Massive Attack - Unfinished Sympathy.mp3_30s.mp3.dat
+0.153898 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+0.155914 DJ Fresh - Temple Of Doom.mp3_30s.mp3.dat
+0.156586 Benny Page - Pinball.mp3_30s.mp3.dat
+0.159274 Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3.dat
+0.159274 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.161962 Benny Page vs MCD, Myesha, The Ragga Twins - Alright.mp3_30s.mp3.dat
+0.161962 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.161962 Eros Ramazzotti - Amarti E' L'immenso Per Me.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Articolo 31 - Ti Sto Parlando.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.062842 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.136612 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.138661 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.144126 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.145492 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.154372 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.155055 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.158470 Elio E Le Storie Tese - El Pube.mp3_30s.mp3.dat
+0.163251 2pac - Brenda's Got A Baby.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Asian Dub Foundation feat Sinead O'Connor - 1000 Mirrors (Visionary Underground rmx).mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.058108 Asian Dub Foundation feat Sinead O'Connor - 1000 Mirrors (Visionary Underground rmx).mp3_30s.mp3.dat
+0.179730 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.181081 Big Pun feat Cormega - Rhyme For Rhyme.mp3_30s.mp3.dat
+0.183784 Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3.dat
+0.184459 Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3.dat
+0.184459 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.184459 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.185811 Korn feat Nas - Play Me.mp3_30s.mp3.dat
+0.186486 Royksopp - Forsaken Cowboy.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Barrington Levy - Here I Come.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.051230 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+0.153689 Snoop Dogg feat Chingy & Ludacris - Holidae Inn.mp3_30s.mp3.dat
+0.153689 DJ Fresh - Temple Of Doom.mp3_30s.mp3.dat
+0.159153 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.160519 Benny Page - Pinball.mp3_30s.mp3.dat
+0.161202 Sigle Cartoni - UFO Robot.mp3_30s.mp3.dat
+0.162568 Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3.dat
+0.163934 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.164617 Anthologia Electronica - Trip Hop, Massive Attack - Unfinished Sympathy.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Benny Page - Pinball.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.049592 Benny Page - Pinball.mp3_30s.mp3.dat
+0.133152 Anthologia Electronica - TechnoDNB, Current Value feat Cooh - Naglfar.mp3_30s.mp3.dat
+0.140625 DJ Fresh - Temple Of Doom.mp3_30s.mp3.dat
+0.144701 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.153533 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+0.154212 Queens Of The Stone Age - No One Knows.mp3_30s.mp3.dat
+0.156250 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.161005 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.161005 Eros Ramazzotti - Amarti E' L'immenso Per Me.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Benny Page vs MCD, Myesha, The Ragga Twins - Alright.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.109626 Benny Page vs MCD, Myesha, The Ragga Twins - Alright.mp3_30s.mp3.dat
+0.163770 D12 feat Gorillaz & Terry Hall - 911.mp3_30s.mp3.dat
+0.178476 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.179144 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+0.180481 Korn feat Nas - Play Me.mp3_30s.mp3.dat
+0.180481 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.181818 Sigle Cartoni - UFO Robot.mp3_30s.mp3.dat
+0.181818 Bob Marley - Natty Dread.mp3_30s.mp3.dat
+0.181818 Chase & Status - Syndicate.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Big Daddy Kane - It's Hard Being The Kane.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.074454 Big Daddy Kane - It's Hard Being The Kane.mp3_30s.mp3.dat
+0.156421 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+0.159836 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.163934 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.165984 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.166667 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.171448 The Last Loveparade, Underground Resistance - Galaxy 2 Galaxy Hi Tech Jazz.mp3_30s.mp3.dat
+0.171448 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.171448 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Big Pun feat Cormega - Rhyme For Rhyme.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.095628 Big Pun feat Cormega - Rhyme For Rhyme.mp3_30s.mp3.dat
+0.162568 Snoop Dogg feat Chingy & Ludacris - Holidae Inn.mp3_30s.mp3.dat
+0.165984 Royksopp - Forsaken Cowboy.mp3_30s.mp3.dat
+0.166667 Snoop Dogg feat Bootsy Collins - Undacova Funk.mp3_30s.mp3.dat
+0.166667 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.167350 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+0.168033 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.168716 Paco De Lucia - Entre Dos Aguas.mp3_30s.mp3.dat
+0.168716 2pac - Dopefiends Diner.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.053279 Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3.dat
+0.154372 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.167350 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+0.167350 Peter Tosh - Reggaemylitis.mp3_30s.mp3.dat
+0.168033 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.168716 Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3.dat
+0.170082 2pac - Dopefiends Diner.mp3_30s.mp3.dat
+0.171448 Nightwish - Bye Bye Beautiful.mp3_30s.mp3.dat
+0.174863 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Bob Marley - Burnin' And Lootin'.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.081284 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.146858 Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3.dat
+0.154372 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.155055 2pac feat JoJo & K-Ci - How Do U Want It.mp3_30s.mp3.dat
+0.155738 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.157104 Frank Sinatra - (theme from) New York New York.mp3_30s.mp3.dat
+0.158470 Velodrome - Capataz.mp3_30s.mp3.dat
+0.160519 Royksopp - Sparks.mp3_30s.mp3.dat
+0.161202 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Bob Marley - Natty Dread.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.114428 Bob Marley - Natty Dread.mp3_30s.mp3.dat
+0.169154 Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3.dat
+0.169154 R.E.M. - Mine Smell Like Honey.mp3_30s.mp3.dat
+0.170398 Royksopp - Forsaken Cowboy.mp3_30s.mp3.dat
+0.172264 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.177861 Snoop Dogg feat Chingy & Ludacris - Holidae Inn.mp3_30s.mp3.dat
+0.178483 2pac feat Nate Dogg - Thugs Get Lonely Too.mp3_30s.mp3.dat
+0.179104 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.179726 Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Canzoni cartoni - Barbari.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.154891 Canzoni cartoni - Barbari.mp3_30s.mp3.dat
+0.163043 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.166440 DJ Fresh - Temple Of Doom.mp3_30s.mp3.dat
+0.167799 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.169158 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.171875 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.173913 Eros Ramazzotti - Amarti E' L'immenso Per Me.mp3_30s.mp3.dat
+0.173913 2pac feat Nate Dogg - Thugs Get Lonely Too.mp3_30s.mp3.dat
+0.175272 Rusko - Mr. Chips.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Chase & Status - Eastern Jam.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.133152 Chase & Status - Eastern Jam.mp3_30s.mp3.dat
+0.146060 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.147418 Motorbass - Pariscyde.mp3_30s.mp3.dat
+0.148098 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.154212 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.156929 Eros Ramazzotti - Amarti E' L'immenso Per Me.mp3_30s.mp3.dat
+0.158288 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.158288 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.158967 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Chase & Status - Syndicate.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.097973 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.114189 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.140541 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.145270 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.145270 Rusko - Mr. Chips.mp3_30s.mp3.dat
+0.149324 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.155405 Peter Tosh - Reggaemylitis.mp3_30s.mp3.dat
+0.156081 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.156757 Big Daddy Kane - It's Hard Being The Kane.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Christian Burkhardt - Stopover Goa.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.042568 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.074324 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.075000 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.083784 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.095270 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.107432 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.112838 Motorbass - Pariscyde.mp3_30s.mp3.dat
+0.120270 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.125000 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\D12 feat Gorillaz & Terry Hall - 911.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.064208 D12 feat Gorillaz & Terry Hall - 911.mp3_30s.mp3.dat
+0.165984 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.172131 R.E.M. - Mine Smell Like Honey.mp3_30s.mp3.dat
+0.172131 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+0.173497 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.174863 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.174863 System Of A Down - Tentative.mp3_30s.mp3.dat
+0.175546 Sigle Cartoni - UFO Robot.mp3_30s.mp3.dat
+0.176230 Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Dajae - U Got Me Up.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.077869 Dajae - U Got Me Up.mp3_30s.mp3.dat
+0.165984 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.168033 Rusko - Mr. Chips.mp3_30s.mp3.dat
+0.168033 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+0.168033 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.170765 Snoop Dogg feat Bootsy Collins - Undacova Funk.mp3_30s.mp3.dat
+0.171448 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.172131 Big Daddy Kane - It's Hard Being The Kane.mp3_30s.mp3.dat
+0.174180 2pac - Brenda's Got A Baby.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Depeche Mode - A Pain That I'm Used To.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.139266 Depeche Mode - A Pain That I'm Used To.mp3_30s.mp3.dat
+0.166440 The Shortwave Set - Is It Any Wonder.mp3_30s.mp3.dat
+0.176630 2pac - Dopefiends Diner.mp3_30s.mp3.dat
+0.177310 Queens Of The Stone Age - No One Knows.mp3_30s.mp3.dat
+0.179348 Big Pun feat Cormega - Rhyme For Rhyme.mp3_30s.mp3.dat
+0.181386 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.182065 R.E.M. - Losing My Religion.mp3_30s.mp3.dat
+0.182745 2pac - Brenda's Got A Baby.mp3_30s.mp3.dat
+0.182745 The Last Loveparade, Underground Resistance - Galaxy 2 Galaxy Hi Tech Jazz.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Disco Fede, Jesse McCartney - Because You Live.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.077869 Disco Fede, Jesse McCartney - Because You Live.mp3_30s.mp3.dat
+0.170082 Paco De Lucia - Entre Dos Aguas.mp3_30s.mp3.dat
+0.174180 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.176913 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.177596 Skream - Hats Off.mp3_30s.mp3.dat
+0.178279 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.179645 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.180328 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.180328 Santos - Primitive Cannible.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.083333 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.137978 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+0.141393 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.142760 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.144809 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.144809 Chase & Status - Eastern Jam.mp3_30s.mp3.dat
+0.148224 Motorbass - Pariscyde.mp3_30s.mp3.dat
+0.148907 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.148907 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\DJ Fresh - Temple Of Doom.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.044595 DJ Fresh - Temple Of Doom.mp3_30s.mp3.dat
+0.139865 Benny Page - Pinball.mp3_30s.mp3.dat
+0.154054 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+0.154730 Queens Of The Stone Age - No One Knows.mp3_30s.mp3.dat
+0.157432 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.158108 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.160135 Anthologia Electronica - TechnoDNB, Current Value feat Cooh - Naglfar.mp3_30s.mp3.dat
+0.162162 2pac - Brenda's Got A Baby.mp3_30s.mp3.dat
+0.163514 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.070355 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.153689 Velodrome - Capataz.mp3_30s.mp3.dat
+0.159836 The Shortwave Set - Is It Any Wonder.mp3_30s.mp3.dat
+0.161202 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.163251 Sigle Cartoni - I Puffi Sanno.mp3_30s.mp3.dat
+0.163251 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.165984 Frank Sinatra - (theme from) New York New York.mp3_30s.mp3.dat
+0.165984 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.166667 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Elio E Le Storie Tese - El Pube.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.105874 Elio E Le Storie Tese - El Pube.mp3_30s.mp3.dat
+0.168033 D12 feat Gorillaz & Terry Hall - 911.mp3_30s.mp3.dat
+0.178279 Snoop Dogg - Hennessy & Buddha.mp3_30s.mp3.dat
+0.178279 2pac feat JoJo & K-Ci - How Do U Want It.mp3_30s.mp3.dat
+0.178279 Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3.dat
+0.179645 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+0.180328 R.E.M. - Mine Smell Like Honey.mp3_30s.mp3.dat
+0.180328 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.181011 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Eminem feat Lil' Wayne - No Love.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.068408 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.164179 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.171642 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.172886 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.172886 Underground Resistance - Hunting The Program Director.mp3_30s.mp3.dat
+0.172886 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.174129 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.175373 2pac feat Nate Dogg - Thugs Get Lonely Too.mp3_30s.mp3.dat
+0.177239 D12 feat Gorillaz & Terry Hall - 911.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Eros Ramazzotti - Amarti E' L'immenso Per Me.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.105100 Eros Ramazzotti - Amarti E' L'immenso Per Me.mp3_30s.mp3.dat
+0.173507 Anthologia Electronica - Hard Trance, DJ Roxx - Jumping & Pumping.mp3_30s.mp3.dat
+0.174751 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.177861 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.178483 Rusko - Mr. Chips.mp3_30s.mp3.dat
+0.178483 Paco De Lucia - Entre Dos Aguas.mp3_30s.mp3.dat
+0.179104 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.179104 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.179104 R.E.M. - Mine Smell Like Honey.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Evanescence - Sweet Sacrifice.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.084699 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+0.165301 Elio E Le Storie Tese - El Pube.mp3_30s.mp3.dat
+0.170082 2pac feat Nate Dogg - Thugs Get Lonely Too.mp3_30s.mp3.dat
+0.170765 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.171448 Snoop Dogg - Hennessy & Buddha.mp3_30s.mp3.dat
+0.172131 2pac - Brenda's Got A Baby.mp3_30s.mp3.dat
+0.172131 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.174863 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.175546 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Frank Sinatra - (theme from) New York New York.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.110656 Frank Sinatra - (theme from) New York New York.mp3_30s.mp3.dat
+0.172814 D12 feat Gorillaz & Terry Hall - 911.mp3_30s.mp3.dat
+0.183060 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.184426 2pac - Brenda's Got A Baby.mp3_30s.mp3.dat
+0.185109 Eros Ramazzotti - Amarti E' L'immenso Per Me.mp3_30s.mp3.dat
+0.186475 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.186475 Anthologia Electronica - Dub, Scientist - Dance Of The Vampires.mp3_30s.mp3.dat
+0.186475 2pac feat Nate Dogg - Thugs Get Lonely Too.mp3_30s.mp3.dat
+0.187158 Skream - Hats Off.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Gala - Freed From Desire.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.060000 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.155000 Motorbass - Pariscyde.mp3_30s.mp3.dat
+0.158125 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.161250 Underground Resistance - Hunting The Program Director.mp3_30s.mp3.dat
+0.161250 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.162500 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.164375 Rusko - Mr. Chips.mp3_30s.mp3.dat
+0.167500 Meganoidi - Your Desire.mp3_30s.mp3.dat
+0.168125 Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Gipsy Kings - Oh Eh Oh Eh.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.064208 Gipsy Kings - Oh Eh Oh Eh.mp3_30s.mp3.dat
+0.164617 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.165301 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+0.174180 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.176913 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.180328 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.181011 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.181011 Chase & Status - Eastern Jam.mp3_30s.mp3.dat
+0.182377 Canzoni cartoni - Barbari.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.051230 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.066257 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.086066 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.086749 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.090164 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.096995 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.100410 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.105191 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.110656 Ricardo Villalobos - Hello halo.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.131148 Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3.dat
+0.158470 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.161885 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+0.163934 Snoop Dogg feat Chingy & Ludacris - Holidae Inn.mp3_30s.mp3.dat
+0.165984 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.165984 Bob Marley - Natty Dread.mp3_30s.mp3.dat
+0.169399 Royksopp - Forsaken Cowboy.mp3_30s.mp3.dat
+0.170765 Disco Fede, Jesse McCartney - Because You Live.mp3_30s.mp3.dat
+0.170765 2pac - Brenda's Got A Baby.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.091530 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.145492 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.151639 Anthologia Electronica - Acid House, Phuture - Acid Tracks.mp3_30s.mp3.dat
+0.153689 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.154372 Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3.dat
+0.156421 Motorbass - Pariscyde.mp3_30s.mp3.dat
+0.156421 Underground Resistance - Hunting The Program Director.mp3_30s.mp3.dat
+0.163934 Velodrome - Capataz.mp3_30s.mp3.dat
+0.170765 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Italoboyz - Phantasmino.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.012097 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.050403 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.058468 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.064516 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.070565 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.079301 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.080645 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.080645 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.107527 Ricardo Villalobos - Hello halo.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Italoboyz - Where Is London Where is London.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.064891 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.135929 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.138661 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.142077 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.148224 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.149590 Ricardo Villalobos - Fools Garden (Black Conga).mp3_30s.mp3.dat
+0.150956 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.153005 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.155055 Santos - Primitive Cannible.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.094945 Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3.dat
+0.151639 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.157104 Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3.dat
+0.157104 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.159836 DJ Fresh - Temple Of Doom.mp3_30s.mp3.dat
+0.160519 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.161202 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.163251 Snoop Dogg - Hennessy & Buddha.mp3_30s.mp3.dat
+0.165301 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Korn - Sing Sorrow.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.081967 Korn - Sing Sorrow.mp3_30s.mp3.dat
+0.178279 Paco De Lucia - Entre Dos Aguas.mp3_30s.mp3.dat
+0.179645 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+0.180328 2pac feat JoJo & K-Ci - How Do U Want It.mp3_30s.mp3.dat
+0.181694 Snoop Dogg - Vapors.mp3_30s.mp3.dat
+0.183060 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.185109 Snoop Dogg - Hennessy & Buddha.mp3_30s.mp3.dat
+0.185109 Depeche Mode - A Pain That I'm Used To.mp3_30s.mp3.dat
+0.185792 Asian Dub Foundation feat Sinead O'Connor - 1000 Mirrors (Visionary Underground rmx).mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Korn feat Nas - Play Me.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.080601 Korn feat Nas - Play Me.mp3_30s.mp3.dat
+0.164617 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.172131 Ricardo Villalobos - Hello halo.mp3_30s.mp3.dat
+0.172131 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.172814 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.173497 Chase & Status - Eastern Jam.mp3_30s.mp3.dat
+0.175546 Velodrome - Capataz.mp3_30s.mp3.dat
+0.175546 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.176230 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.056694 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.087432 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.098361 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.105874 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.107923 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.110656 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.112022 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.112705 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.136612 Motorbass - Pariscyde.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Maddslinky feat Skream - 50 Shades Of Peng.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.108607 Maddslinky feat Skream - 50 Shades Of Peng.mp3_30s.mp3.dat
+0.173497 2pac - Dopefiends Diner.mp3_30s.mp3.dat
+0.178279 Elio E Le Storie Tese - El Pube.mp3_30s.mp3.dat
+0.178962 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.181011 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.181011 Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3.dat
+0.181694 Sigle Cartoni - UFO Robot.mp3_30s.mp3.dat
+0.182377 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.183743 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Meganoidi - Your Desire.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.087687 Meganoidi - Your Desire.mp3_30s.mp3.dat
+0.184080 2pac - Brenda's Got A Baby.mp3_30s.mp3.dat
+0.184080 2pac - High Till I Die.mp3_30s.mp3.dat
+0.185323 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.187189 Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3.dat
+0.188433 Peter Tosh - Reggaemylitis.mp3_30s.mp3.dat
+0.189677 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.189677 The Shortwave Set - Is It Any Wonder.mp3_30s.mp3.dat
+0.191542 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Motorbass - Ezio (Cassius rmx).mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.176075 Velodrome - Capataz.mp3_30s.mp3.dat
+0.182124 Motorbass - Ezio (Cassius rmx).mp3_30s.mp3.dat
+0.182796 Anthologia Electronica - Electro Hop, World Class Wreckin Cru - Turn Off The Lights.mp3_30s.mp3.dat
+0.186156 R.E.M. - Losing My Religion.mp3_30s.mp3.dat
+0.188172 Sigle Cartoni - I Puffi Sanno.mp3_30s.mp3.dat
+0.188844 Disco Fede, Jesse McCartney - Because You Live.mp3_30s.mp3.dat
+0.188844 Meganoidi - Your Desire.mp3_30s.mp3.dat
+0.190188 D12 feat Gorillaz & Terry Hall - 911.mp3_30s.mp3.dat
+0.192876 Maddslinky feat Skream - 50 Shades Of Peng.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Motorbass - Pariscyde.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.069595 Motorbass - Pariscyde.mp3_30s.mp3.dat
+0.168243 Velodrome - Capataz.mp3_30s.mp3.dat
+0.172297 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.173649 Big Daddy Kane - It's Hard Being The Kane.mp3_30s.mp3.dat
+0.175676 D12 feat Gorillaz & Terry Hall - 911.mp3_30s.mp3.dat
+0.175676 R.E.M. - Losing My Religion.mp3_30s.mp3.dat
+0.177027 Meganoidi - Your Desire.mp3_30s.mp3.dat
+0.177703 Paco De Lucia - Entre Dos Aguas.mp3_30s.mp3.dat
+0.178378 Royksopp - Sparks.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Muse - Muscle Museum.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.093579 Muse - Muscle Museum.mp3_30s.mp3.dat
+0.191940 Ricardo Villalobos - Fools Garden (Black Conga).mp3_30s.mp3.dat
+0.198770 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.198770 Snoop Dogg feat Bootsy Collins - Undacova Funk.mp3_30s.mp3.dat
+0.198770 Ricardo Villalobos - Chromosul.mp3_30s.mp3.dat
+0.199454 Korn feat Nas - Play Me.mp3_30s.mp3.dat
+0.199454 Elio E Le Storie Tese - El Pube.mp3_30s.mp3.dat
+0.200137 Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3.dat
+0.200820 The Last Loveparade, Underground Resistance - Galaxy 2 Galaxy Hi Tech Jazz.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Nightwish - Bye Bye Beautiful.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.060792 Nightwish - Bye Bye Beautiful.mp3_30s.mp3.dat
+0.178279 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.180328 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.181011 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.183060 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.183743 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.183743 Snoop Dogg feat Bootsy Collins - Undacova Funk.mp3_30s.mp3.dat
+0.185109 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.185109 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Paco De Lucia - Entre Dos Aguas.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.089674 Paco De Lucia - Entre Dos Aguas.mp3_30s.mp3.dat
+0.161685 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.162364 Meganoidi - Your Desire.mp3_30s.mp3.dat
+0.167120 Velodrome - Capataz.mp3_30s.mp3.dat
+0.168478 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.168478 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.168478 D12 feat Gorillaz & Terry Hall - 911.mp3_30s.mp3.dat
+0.169158 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.169158 Gala - Freed From Desire.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Pap3ro - Notte Prima Degli Esami.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.097678 Pap3ro - Notte Prima Degli Esami.mp3_30s.mp3.dat
+0.174863 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.175546 Meganoidi - Your Desire.mp3_30s.mp3.dat
+0.176913 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.181694 Disco Fede, Jesse McCartney - Because You Live.mp3_30s.mp3.dat
+0.182377 Depeche Mode - A Pain That I'm Used To.mp3_30s.mp3.dat
+0.183743 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.185792 Velodrome - Capataz.mp3_30s.mp3.dat
+0.185792 Sigle Cartoni - UFO Robot.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Pendulum - Blood Sugar.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.043716 Pendulum - Blood Sugar.mp3_30s.mp3.dat
+0.170082 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.173497 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.176230 Big Pun feat Cormega - Rhyme For Rhyme.mp3_30s.mp3.dat
+0.177596 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.180328 Snoop Dogg feat Chingy & Ludacris - Holidae Inn.mp3_30s.mp3.dat
+0.182377 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.183060 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.183060 Rusko - Mr. Chips.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Peter Tosh - Reggaemylitis.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.143443 Peter Tosh - Reggaemylitis.mp3_30s.mp3.dat
+0.158470 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.171448 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.174863 Velodrome - Capataz.mp3_30s.mp3.dat
+0.174863 Meganoidi - Your Desire.mp3_30s.mp3.dat
+0.175546 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.176230 Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3.dat
+0.176913 Chase & Status - Eastern Jam.mp3_30s.mp3.dat
+0.177596 The Last Loveparade, Underground Resistance - Galaxy 2 Galaxy Hi Tech Jazz.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Queens Of The Stone Age - No One Knows.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.109290 Queens Of The Stone Age - No One Knows.mp3_30s.mp3.dat
+0.176230 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.183060 Gipsy Kings - Oh Eh Oh Eh.mp3_30s.mp3.dat
+0.183743 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.186475 2pac - Dopefiends Diner.mp3_30s.mp3.dat
+0.187158 Chase & Status - Eastern Jam.mp3_30s.mp3.dat
+0.187158 R.E.M. - Losing My Religion.mp3_30s.mp3.dat
+0.187158 D12 feat Gorillaz & Terry Hall - 911.mp3_30s.mp3.dat
+0.187842 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\R.E.M. - Losing My Religion.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.098361 R.E.M. - Losing My Religion.mp3_30s.mp3.dat
+0.170082 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.175546 Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3.dat
+0.177596 Disco Fede, Jesse McCartney - Because You Live.mp3_30s.mp3.dat
+0.177596 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.178962 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.178962 Frank Sinatra - (theme from) New York New York.mp3_30s.mp3.dat
+0.180328 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+0.182377 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\R.E.M. - Mine Smell Like Honey.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.103142 R.E.M. - Mine Smell Like Honey.mp3_30s.mp3.dat
+0.186475 Royksopp - Forsaken Cowboy.mp3_30s.mp3.dat
+0.191257 Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3.dat
+0.191257 Ricardo Villalobos - Chromosul.mp3_30s.mp3.dat
+0.191940 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.191940 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.193989 Canzoni cartoni - Barbari.mp3_30s.mp3.dat
+0.194672 Maddslinky feat Skream - 50 Shades Of Peng.mp3_30s.mp3.dat
+0.195355 2pac - Dopefiends Diner.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Ricardo Villalobos - Chromosul.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.103142 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.113388 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.125683 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.127732 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.130464 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.131831 Ricardo Villalobos - Hello halo.mp3_30s.mp3.dat
+0.133197 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.133880 Ricardo Villalobos - Chromosul.mp3_30s.mp3.dat
+0.135929 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Ricardo Villalobos - Fools Garden (Black Conga).mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.116803 Ricardo Villalobos - Fools Garden (Black Conga).mp3_30s.mp3.dat
+0.172814 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.174863 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.174863 Anthologia Electronica - Dub, Scientist - Dance Of The Vampires.mp3_30s.mp3.dat
+0.175546 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+0.178279 Ricardo Villalobos - Hello halo.mp3_30s.mp3.dat
+0.178279 Sigle Cartoni - UFO Robot.mp3_30s.mp3.dat
+0.181694 Anthologia Electronica - Hip House, Deadmau5 feat MC Flipside - Hi Friend.mp3_30s.mp3.dat
+0.181694 Royksopp - Sparks.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Ricardo Villalobos - Hello halo.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.097678 Ricardo Villalobos - Hello halo.mp3_30s.mp3.dat
+0.131148 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.140027 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.150956 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.152322 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.157787 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.157787 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.159836 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+0.161202 Santos - Primitive Cannible.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Ricardo Villalobos - La Raja.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.109290 Ricardo Villalobos - La Raja.mp3_30s.mp3.dat
+0.157104 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.159153 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.159153 Anthologia Electronica - Electro Hop, World Class Wreckin Cru - Turn Off The Lights.mp3_30s.mp3.dat
+0.159153 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.160519 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.161885 Motorbass - Pariscyde.mp3_30s.mp3.dat
+0.163251 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+0.164617 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Royksopp - Forsaken Cowboy.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.094945 Royksopp - Forsaken Cowboy.mp3_30s.mp3.dat
+0.155738 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.159153 R.E.M. - Mine Smell Like Honey.mp3_30s.mp3.dat
+0.165301 Chase & Status - Eastern Jam.mp3_30s.mp3.dat
+0.165984 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.165984 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+0.166667 Rusko - Mr. Chips.mp3_30s.mp3.dat
+0.167350 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.168033 Sigle Cartoni - UFO Robot.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Royksopp - Sparks.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.103142 Royksopp - Sparks.mp3_30s.mp3.dat
+0.161202 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.168033 2pac feat JoJo & K-Ci - How Do U Want It.mp3_30s.mp3.dat
+0.170082 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.174863 Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3.dat
+0.176913 Sigle Cartoni - I Puffi Sanno.mp3_30s.mp3.dat
+0.178279 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.178279 2pac feat Nate Dogg - Thugs Get Lonely Too.mp3_30s.mp3.dat
+0.178279 Ricardo Villalobos - Fools Garden (Black Conga).mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Rusko - Mr. Chips.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.045082 Rusko - Mr. Chips.mp3_30s.mp3.dat
+0.165984 Maddslinky feat Skream - 50 Shades Of Peng.mp3_30s.mp3.dat
+0.168033 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.170082 Big Pun feat Cormega - Rhyme For Rhyme.mp3_30s.mp3.dat
+0.171448 Anthologia Electronica - Schranz, Chris Liebing feat Andrew Wooden - Stigmata 10.mp3_30s.mp3.dat
+0.171448 Skream - What Did He Say.mp3_30s.mp3.dat
+0.173497 Elio E Le Storie Tese - El Pube.mp3_30s.mp3.dat
+0.176913 Anthologia Electronica - Hard Trance, DJ Roxx - Jumping & Pumping.mp3_30s.mp3.dat
+0.176913 Skream - 2D.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Santos - Primitive Cannible.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.019022 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.043478 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.059103 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.081522 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.081522 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.087636 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.088995 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.097826 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.109375 Underground Resistance - Hunting The Program Director.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Sean Paul - Like Glue.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.112562 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.164801 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.166045 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.168532 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+0.171020 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.171642 Anthologia Electronica - TechnoDNB, Current Value feat Cooh - Naglfar.mp3_30s.mp3.dat
+0.171642 Big Pun feat Cormega - Rhyme For Rhyme.mp3_30s.mp3.dat
+0.173507 Pendulum - Blood Sugar.mp3_30s.mp3.dat
+0.173507 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Sean Paul feat Simple Plan - Summer Paradise.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.098881 Sean Paul feat Simple Plan - Summer Paradise.mp3_30s.mp3.dat
+0.180348 Royksopp - Forsaken Cowboy.mp3_30s.mp3.dat
+0.184080 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.185945 D12 feat Gorillaz & Terry Hall - 911.mp3_30s.mp3.dat
+0.186567 Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3.dat
+0.187189 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.189055 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.189677 The Last Loveparade, Underground Resistance - Galaxy 2 Galaxy Hi Tech Jazz.mp3_30s.mp3.dat
+0.190920 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Sigle Cartoni - I Puffi Sanno.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.079235 Sigle Cartoni - I Puffi Sanno.mp3_30s.mp3.dat
+0.164617 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.168716 Maddslinky feat Skream - 50 Shades Of Peng.mp3_30s.mp3.dat
+0.170082 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.170082 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.176913 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.176913 R.E.M. - Losing My Religion.mp3_30s.mp3.dat
+0.176913 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.177596 Rusko - Mr. Chips.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Sigle Cartoni - UFO Robot.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.084699 Sigle Cartoni - UFO Robot.mp3_30s.mp3.dat
+0.159153 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.161885 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.165301 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.165984 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.168716 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.169399 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.170082 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.170082 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Skream - 2D.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.088798 Skream - 2D.mp3_30s.mp3.dat
+0.159836 Anthologia Electronica - Dub, Scientist - Dance Of The Vampires.mp3_30s.mp3.dat
+0.178962 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.179645 Rusko - Mr. Chips.mp3_30s.mp3.dat
+0.180328 Maddslinky feat Skream - 50 Shades Of Peng.mp3_30s.mp3.dat
+0.181694 Anthologia Electronica - Florida Breaks, Jackal & Hyde - Darkstar.mp3_30s.mp3.dat
+0.182377 Big Pun feat Cormega - Rhyme For Rhyme.mp3_30s.mp3.dat
+0.183060 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.184426 Snoop Dogg - Hennessy & Buddha.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Skream - Hats Off.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.088798 Skream - Hats Off.mp3_30s.mp3.dat
+0.178962 Big Pun feat Fat Joe - Best Behavior (rmx).mp3_30s.mp3.dat
+0.181011 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.182377 Gregory Isaacs feat King Isaac - One Cocoa.mp3_30s.mp3.dat
+0.183060 Frank Sinatra - (theme from) New York New York.mp3_30s.mp3.dat
+0.183060 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.185792 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.187158 Peter Tosh - Reggaemylitis.mp3_30s.mp3.dat
+0.187842 Anthologia Electronica - Schranz, Chris Liebing feat Andrew Wooden - Stigmata 10.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Skream - What Did He Say.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.072861 Skream - What Did He Say.mp3_30s.mp3.dat
+0.166444 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.174465 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+0.175802 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.176471 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.179144 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+0.179144 Chase & Status - Eastern Jam.mp3_30s.mp3.dat
+0.180481 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.181150 Korn feat Nas - Play Me.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Snoop Dogg - Hennessy & Buddha.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.075249 Snoop Dogg - Hennessy & Buddha.mp3_30s.mp3.dat
+0.164179 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.164801 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.166045 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.167910 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.167910 Maddslinky feat Skream - 50 Shades Of Peng.mp3_30s.mp3.dat
+0.173507 System Of A Down - Tentative.mp3_30s.mp3.dat
+0.175373 Big Pun feat Cormega - Rhyme For Rhyme.mp3_30s.mp3.dat
+0.175995 R.E.M. - Mine Smell Like Honey.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Snoop Dogg - Vapors.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.060625 Snoop Dogg - Vapors.mp3_30s.mp3.dat
+0.133125 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.133750 Underground Resistance - Hunting The Program Director.mp3_30s.mp3.dat
+0.137500 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.138125 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.145000 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.146875 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.147500 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.147500 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Snoop Dogg feat Bootsy Collins - Undacova Funk.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.118781 Snoop Dogg feat Bootsy Collins - Undacova Funk.mp3_30s.mp3.dat
+0.140547 Big Daddy Kane - It's Hard Being The Kane.mp3_30s.mp3.dat
+0.160448 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+0.162935 2pac - High Till I Die.mp3_30s.mp3.dat
+0.172886 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+0.175373 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.176617 Motorbass - Pariscyde.mp3_30s.mp3.dat
+0.177239 2pac feat JoJo & K-Ci - How Do U Want It.mp3_30s.mp3.dat
+0.177861 Articolo 31 - Ti Sto Parlando.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Snoop Dogg feat Chingy & Ludacris - Holidae Inn.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.061475 Snoop Dogg feat Chingy & Ludacris - Holidae Inn.mp3_30s.mp3.dat
+0.148224 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.161202 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.163251 Snoop Dogg - Hennessy & Buddha.mp3_30s.mp3.dat
+0.170082 2pac feat Nate Dogg - Thugs Get Lonely Too.mp3_30s.mp3.dat
+0.170765 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.171448 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.172131 Canzoni cartoni - Barbari.mp3_30s.mp3.dat
+0.173497 2pac - Brenda's Got A Baby.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Snoop Dogg feat Timati - Groove On.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.066250 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+0.121250 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.135000 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.150000 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.154375 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+0.155000 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.156875 Benny Page - Pinball.mp3_30s.mp3.dat
+0.158125 DJ Fresh - Temple Of Doom.mp3_30s.mp3.dat
+0.160625 Queens Of The Stone Age - No One Knows.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Stardust - Music Sounds Better with You.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.017760 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.046448 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.052596 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.083333 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.084016 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.084699 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.094945 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.096995 Green Velvet feat Chris Liebing - Auf Und Ab Und Kinda High (Dustin Zahn rmx).mp3_30s.mp3.dat
+0.099044 Underground Resistance - Hunting The Program Director.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\System Of A Down - Tentative.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.085811 System Of A Down - Tentative.mp3_30s.mp3.dat
+0.171622 Anthologia Electronica - Trip Hop, Massive Attack - Unfinished Sympathy.mp3_30s.mp3.dat
+0.175000 Jay Z feat Mary J. Blige - Can't Knock The Hustle.mp3_30s.mp3.dat
+0.177027 Asian Dub Foundation feat Sinead O'Connor - 1000 Mirrors (Visionary Underground rmx).mp3_30s.mp3.dat
+0.179054 Snoop Dogg - Hennessy & Buddha.mp3_30s.mp3.dat
+0.179730 Sigle Cartoni - UFO Robot.mp3_30s.mp3.dat
+0.179730 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+0.180405 2pac - Dopefiends Diner.mp3_30s.mp3.dat
+0.180405 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\System Of A Down feat Wu Tang Clan - Shame On A Nigga.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.043716 System Of A Down feat Wu Tang Clan - Shame On A Nigga.mp3_30s.mp3.dat
+0.164617 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.166667 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.168716 Underground Resistance - Hunting The Program Director.mp3_30s.mp3.dat
+0.170082 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.171448 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.172131 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.172131 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.174180 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\The Last Loveparade, Underground Resistance - Galaxy 2 Galaxy Hi Tech Jazz.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.181694 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.182377 Eminem feat Lil' Wayne - No Love.mp3_30s.mp3.dat
+0.183743 Muse - Muscle Museum.mp3_30s.mp3.dat
+0.183743 Sean Paul - Like Glue.mp3_30s.mp3.dat
+0.186475 Snoop Dogg - Hennessy & Buddha.mp3_30s.mp3.dat
+0.186475 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.187158 D12 feat Gorillaz & Terry Hall - 911.mp3_30s.mp3.dat
+0.187158 Evanescence - Sweet Sacrifice.mp3_30s.mp3.dat
+0.187158 2pac feat Elton John - Ghetto Gospel.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\The Shortwave Set - Is It Any Wonder.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.084016 The Shortwave Set - Is It Any Wonder.mp3_30s.mp3.dat
+0.170765 Royksopp - Sparks.mp3_30s.mp3.dat
+0.170765 Dr. Dre feat Nate Dogg - One More Day.mp3_30s.mp3.dat
+0.171448 Skream - What Did He Say.mp3_30s.mp3.dat
+0.172814 Frank Sinatra - (theme from) New York New York.mp3_30s.mp3.dat
+0.173497 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.173497 2pac - Dopefiends Diner.mp3_30s.mp3.dat
+0.174863 Snoop Dogg feat Bootsy Collins - Undacova Funk.mp3_30s.mp3.dat
+0.176230 Chase & Status - Eastern Jam.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\The Specials - Message To You Rudy.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.086486 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.139865 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.140541 Rusko - Mr. Chips.mp3_30s.mp3.dat
+0.147973 Chase & Status - Syndicate.mp3_30s.mp3.dat
+0.153378 Skream - Hats Off.mp3_30s.mp3.dat
+0.156081 Disco Fede, Savage Garden - Truly Madly Deeply.mp3_30s.mp3.dat
+0.158784 Snoop Dogg - Hennessy & Buddha.mp3_30s.mp3.dat
+0.159459 Snoop Dogg feat Timati - Groove On.mp3_30s.mp3.dat
+0.160135 System Of A Down feat Wu Tang Clan - Shame On A Nigga.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Underground Resistance - Hunting The Program Director.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.089375 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.100625 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.101250 Underground Resistance - Hunting The Program Director.mp3_30s.mp3.dat
+0.105625 Gala - Freed From Desire.mp3_30s.mp3.dat
+0.107500 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.123750 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.125000 Motorbass - Pariscyde.mp3_30s.mp3.dat
+0.131250 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+0.133750 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Velodrome - Capataz.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.113388 Velodrome - Capataz.mp3_30s.mp3.dat
+0.155055 Gregory Isaacs feat Sly & Robbie - Tribute To Waddy.mp3_30s.mp3.dat
+0.165984 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.170082 2pac - Never Call You Bitch Again.mp3_30s.mp3.dat
+0.170765 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.172814 Dajae - U Got Me Up.mp3_30s.mp3.dat
+0.172814 Barrington Levy - Here I Come.mp3_30s.mp3.dat
+0.172814 2pac feat Hussein & Papoose - Dumpin'.mp3_30s.mp3.dat
+0.172814 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.062158 Vincenzo Da Via Anfossi - Il Primo E L' Ultimo.mp3_30s.mp3.dat
+0.129098 Snoop Dogg - Vapors.mp3_30s.mp3.dat
+0.130464 Italoboyz - Phantasmino.mp3_30s.mp3.dat
+0.131148 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.138661 Santos - Primitive Cannible.mp3_30s.mp3.dat
+0.140710 Stardust - Music Sounds Better with You.mp3_30s.mp3.dat
+0.141393 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.142077 Christian Burkhardt - Stopover Goa.mp3_30s.mp3.dat
+0.144126 Loco Dice - Knibbie Never Comes Alone.mp3_30s.mp3.dat
+
+-------
+Query: C:\\Users\\riQui\\Documents\\code\\C\\popularHEAD\\data\\bitstream_samples\\whitenoise\\5sec_wn_.0625\\Zip feat Baby Ford - All Set.mp3_30s.mp3_5s.mp3_.mp3.dat
+-------
+Results:
+0.118852 Zip feat Baby Ford - All Set.mp3_30s.mp3.dat
+0.151639 The Last Loveparade, Underground Resistance - Galaxy 2 Galaxy Hi Tech Jazz.mp3_30s.mp3.dat
+0.159836 Italoboyz - Where Is London Where is London.mp3_30s.mp3.dat
+0.166667 Bob Marley - Burnin' And Lootin'.mp3_30s.mp3.dat
+0.167350 Korn - Sing Sorrow.mp3_30s.mp3.dat
+0.168716 2pac - Dopefiends Diner.mp3_30s.mp3.dat
+0.170765 Disco Fede, Jesse McCartney - Because You Live.mp3_30s.mp3.dat
+0.170765 The Specials - Message To You Rudy.mp3_30s.mp3.dat
+0.171448 Frank Sinatra - (theme from) New York New York.mp3_30s.mp3.dat

@@ -1,0 +1,13 @@
+This is a C implementation of the audio fingerprinting technique described in http://dl.acm.org/citation.cfm?id=1835554 
+and reviewed in http://www.scribd.com/doc/145082400/Fingerprint-and-quality-based-audio-track-retrieval.
+
+There are two separate Eclipse CDT projects, popularFW and popularBW, for the forward/fingerprinting and 
+backward/matching algorithms. The former is based on the popular musicout.c source. Overall project configuration is not
+100% accurate, but in order to import them correctly, copy the directories to your workspace and create two new projects
+with the same names; uncheck the Debug configuration box. The compilation toolkit the makefile was automatically 
+generated for by Eclipse is Cygwin GCC, but units are supposed to compile on any unix flavor with little or no 
+modification. Binaries are included.
+
+popularFW\script contains some .bat executables to be used as External tools; I automatized the whole testing 
+procedure with these scripts. Check them to try the algorithm and read 
+the second document to better understand the whole picture.
