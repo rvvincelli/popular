@@ -1,4 +1,6 @@
-This is a C implementation of the audio fingerprinting technique described in http://dl.acm.org/citation.cfm?id=1835554 
+This is a C implementation of the audio fingerprinting technique 
+described in http://dl.acm.org/citation.cfm?id=1835554, "Robust Audio 
+Identification for MP3 Popular Music"
 and reviewed in http://www.scribd.com/doc/145082400/Fingerprint-and-quality-based-audio-track-retrieval.
 
 There are two separate Eclipse CDT projects, popularFW and popularBW, for the forward/fingerprinting and 
